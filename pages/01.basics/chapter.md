@@ -10,3 +10,5 @@ child_type: docs
 # Basics
 
 Discover the **basic** principles
+
+some of them principles are quite cool
